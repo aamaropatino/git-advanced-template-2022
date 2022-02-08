@@ -1,1 +1,2 @@
 Welcome to InfPALS Git and GitHub Advanced Workshop!
+My name is Ale!
